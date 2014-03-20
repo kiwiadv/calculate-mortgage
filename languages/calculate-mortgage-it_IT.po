@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: calculate-mortgage\n"
+"POT-Creation-Date: 2014-03-19 23:40+0100\n"
+"PO-Revision-Date: 2014-03-19 23:40+0100\n"
+"Last-Translator: Davide <davidedelnistagmail.com>\n"
+"Language-Team: kiwi adv <info@kiwiadv.net>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/"
+"plugins/calculate-mortgage/languages/\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;__;_e\n"
+"X-Poedit-SearchPath-0: /Users/davide/Documents/kiwi/kiwi-framework/wp-"
+"content/plugins/calculate-mortgage\n"
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:87
+msgid ""
+"Error: To calculate the repayment of the loan you must complete all fields"
+msgstr "Errore: Per calcolare l'ammortamento devi compilare tutti i campi\t"
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:91
+msgid "Error: Allowed only numbers"
+msgstr "Errore: Consentiti solo numeri"
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:96
+msgid "Calculate the repayment of your loan"
+msgstr "Calcola il piano di rimborso del tuo prestito"
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:99
+msgid "Amount requested"
+msgstr "Importo richiesto"
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:100
+msgid "Interest rate (fixed rate)"
+msgstr "Tasso di interesse (tasso fisso)"
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:101
+msgid "Duration"
+msgstr "Termine"
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:101
+msgid "years"
+msgstr "anni"
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:103
+msgid "Date"
+msgstr "Scadenza"
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:105
+msgid "monthly"
+msgstr "mensile"
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:106
+msgid "six-monthly"
+msgstr "semestrale"
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:110
+msgid "Calculate mortgage"
+msgstr "Calcola Mutuo"
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:115
+msgid "Repayment plan"
+msgstr "Piano ammortamento"
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:125
+msgid "Rate"
+msgstr "Tasso"
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:126
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:134
+msgid "Amount of tranche"
+msgstr "Importo rata"
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:127
+msgid "Total interest"
+msgstr "Totale interessi"
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:128
+msgid "Total loan"
+msgstr "Totale finanziamento"
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:134
+msgid "Tranche"
+msgstr "Rata"
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:134
+msgid "Portion capital"
+msgstr "Quota capitale"
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:134
+msgid "Portion interest"
+msgstr "Quota interessi"
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:134
+msgid "Residual capital"
+msgstr "Capitale residuo"

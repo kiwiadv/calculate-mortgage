@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: calculate-mortgage\n"
+"POT-Creation-Date: 2014-03-19 23:30+0100\n"
+"PO-Revision-Date: 2014-03-19 23:30+0100\n"
+"Last-Translator: Davide <davidedelnistagmail.com>\n"
+"Language-Team: kiwi adv <info@kiwiadv.net>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/"
+"plugins/calculate-mortgage/languages/\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;__;_e\n"
+"X-Poedit-SearchPath-0: /Users/davide/Documents/kiwi/kiwi-framework/wp-"
+"content/plugins/calculate-mortgage\n"
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:87
+msgid ""
+"Error: To calculate the repayment of the loan you must complete all fields"
+msgstr ""
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:91
+msgid "Error: Allowed only numbers"
+msgstr ""
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:96
+msgid "Calculate the repayment of your loan"
+msgstr ""
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:99
+msgid "Amount requested"
+msgstr ""
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:100
+msgid "Interest rate (fixed rate)"
+msgstr ""
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:101
+msgid "Duration"
+msgstr ""
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:101
+msgid "years"
+msgstr ""
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:103
+msgid "Date"
+msgstr ""
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:105
+msgid "monthly"
+msgstr ""
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:106
+msgid "six-monthly"
+msgstr ""
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:110
+msgid "Calculate mortgage"
+msgstr ""
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:115
+msgid "Repayment plan"
+msgstr ""
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:125
+msgid "Rate"
+msgstr ""
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:126
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:134
+msgid "Amount of tranche"
+msgstr ""
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:127
+msgid "Total interest"
+msgstr ""
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:128
+msgid "Total loan"
+msgstr ""
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:134
+msgid "Tranche"
+msgstr ""
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:134
+msgid "Portion capital"
+msgstr ""
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:134
+msgid "Portion interest"
+msgstr ""
+
+#: /Users/davide/Documents/kiwi/kiwi-framework/wp-content/plugins/calculate-mortgage/calculate-mortgage.php:134
+msgid "Residual capital"
+msgstr ""
