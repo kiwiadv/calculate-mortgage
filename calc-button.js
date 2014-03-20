@@ -2,6 +2,8 @@
 
 // Script che aggiunge il bottone all'editor
  
+// add button to editor
+
 (function() {
  
 //Modifica nella riga qui sotto il nome del nostro shortcode con il nome del tuo shortcode
